@@ -277,33 +277,33 @@ The following rules may be tentatively formulated to describe the use of the art
     + 4th Attributive Position
     + Anarthrous 2nd Predicate Position
 * Person and Number
-** 8.1	Person
+** Person
 + 1st Person for 3rd Person ("I" = "Someone")
 + 2nd Person for 3rd Person ("You" = "Someone")? (Likely to have no indefinite 2nd person)
-+ 1st Person Plural Constructions: The Scope of "We" (Inclusive We = Author & readers (Exclusive We = I & my associates (Editorial We = I ))) 
-  - Editorial "We": 
-When (1) author shift unexpectedly from singular to plural, (2) usually nom. case 
++ *1st Person Plural Constructions*: The Scope of "We" (Inclusive We = Author & readers (Exclusive We = I & my associates (Editorial We = I ))) 
+  - Editorial "We":
+    When (1) author shift unexpectedly from singular to plural, (2) usually nom. case 
   - Inclusive "We" vs Exclusive "We"
-** 8.2	Number
-+ Neuter Plural Subject with Singular Verb
+** Number
++ *Neuter Plural Subject with Singular Verb*
 + Collective Singular Subject with Plural Verb
-+ Compound Subject with Singular Verb
-2 subjects joined by a conjunction. Stress is on the 1st named subject. 
++ *Compound Subject with Singular Verb*
+  2 subjects joined by a conjunction. Stress is on the 1st named subject. 
 + The Indefinite Plural ("They" = "Someone")
 + The Categorical Plural (aka Generalizing Plural)
 
 * Voice
-Transitiveness relates action of a verb to an object, while voice relates the action of a verb to its subject. Transitive verbs can be translated to the passive. 
-** 9.1	Active Voice
-The subj. performs, produces, or experiences the action or exists in the state expressed by the verb. 
-+ Simple Active
-  - Subject performs or experiences the action. 
-+ Causative Active
-  - Subject is not directly involved in the action, but is the ultimate source or cause of it. 
-+ Stative Active (occurs with equative verbs and verbs that use am + a pred adj)
-  - Subject exists in the state indicated by the verb. 
-+ Reflexive Active
-  - Subject acts upon himself. Usually, reflexive pronoun is used as the direct object.
+/Transitiveness/ relates action of a verb to an object, while voice relates the action of a verb to its /subject/. Transitive verbs can be translated to the passive. 
+** Active Voice
+The subj. /performs, produces, or experiences the action or exists in the state expressed by the verb/. 
++ *Simple Active*
+  Subject performs or experiences the action. 
++ *Causative Active*
+  Subject is not directly involved in the action, but is the ultimate source or cause of it. 
++ *Stative Active* (occurs with equative verbs and verbs that use am + a pred adj)
+  Subject exists in the state indicated by the verb. 
++ *Reflexive Active*
+  Subject acts upon himself. Usually, reflexive pronoun is used as the direct object.
 ** 9.2	Middle Voice
 The subj. performs or experiences the action expressed by the verb in such a way that emphasizes the subject's participation. Active voice emphasizes action of the verb, middle emphasize actor [subj] of the verb. 
 + Direct Middle
@@ -672,3 +672,4 @@ Verb of being + Anarthrous part (usually present or perfect) to form a finite ve
 + Summary
   - The lack of agreement suggests that one must use caution. None of the above schemes seems able with any degree of comprehensiveness to account for Paul’s use of the tenses in commands.
   - Negatively, Porter’s suggestion that the present often carries emphasis does not seem to work very often; and his suggestion that in this text (Rom 6:12) the present prohibitions in vv. 12 and 13a are emphatic while the positive command in v. 13b assumes what the Romans already know (Verbal Aspect, 357) turns the natural flow of the text on its head.  But there does seem to be some reason to think that Paul often uses the present to connote durative action.
+
