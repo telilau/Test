@@ -1,0 +1,674 @@
+#+TITLE: Summary of Wallace
+#+INCLUDE: "~/My Documents/Dropbox/org/export-options-lau.org"
+
+* Nouns
+** Nominative Case
+*** Primary Uses of the Nominative
++ *Subject*
++ *Predicate Nominative*
+  - Joined by an equative verb. S-PN Rule. 
+    + /Subset proposition/. When only 1 nom. substantive has the following grammatical tag, the subject is (1) pronoun (2) articular (3) proper name. 
+    + /Convertible proposition/. When both nouns have the grammatical tag, the priority for S is (1) pronoun (2) articular and proper name have same priority. Use word order. 
+    + Substitution for PN (εἰς + acc). With γίνομαι, εἰμί (future tense), λογίζομαι. 
++ *Nominative in Simple Apposition*
+*** Grammatically Independent Uses of the Nominative
++ *Nominative Absolute*
++ *Pendent Nominative*
+  - Nominative is logical subject at beginning of sentence, but replaced by a pronoun in the required case by the syntax in the following sentence. 
++ *Parenthetic Nominative* (subj of an explanatory clause within another clause)
++ Nominative in Proverbial Expressions
++ *Nominative for Vocative*
++ Nominative of Exclamation
+*** Nominatives in Places of Oblique Cases
++ Nominative of Appellation (nominative is /treated/ as a proper name)
++ Nominative of Apposition to Oblique Cases
+** Vocative Case
+*** Direct Address
++ *Simple Address* (use without ὦ preceding it)
++ Emphatic (or, Emotional Address) (use with ὦ preceding it)
++ The Exceptional Usages in Acts
++ Simplification
+*** Exclamation
+*** Apposition (the whole vocation construction is emphatic/emotional address)
+** Genitive Case
+Main force is adjectival while dative is adverbial 
+*** Adjectival Genitive
++ Descriptive Genitive [characterized by, described by]
++ *Possessive Genitive* [belonging to, possessed by]
+  - Possessive pronouns typically used. Head noun (N) is something that can be possessed (e.g. entities, not abstract ideas) by Ng.
++ *Genitive of Relationship* (familial relationship)
++ *Partitive Genitive* ("Wholative") [which is a part of]
+  - Opp to gen of apposition. 
++ *Attributive Genitive* (Hebrew Genitive; Genitive of Quality; N-Ng = Adj(Ng)-N)
++ Attributed Genitive (N-Ng = Adj(N)-Ng)
++ Genitive of Material [made out of, consisting of]
++ Genitive of Content [full of, containing]
++ *Genitive in Simple Apposition*
+  - Gen of Simple App (equative); Gen of App is subset (noun(gen of app)) 
++ *Genitive of Apposition* [which is, who is]
+  - The head noun (1) states a large category, (2) will be ambiguous, (3) metaphorical. 
++ Genitive of Destination (aka Destination or Purpose) [destined for, toward]
++ Predicate Genitive
+  - Emphatic kind of simple apposition where the equative verb is a genitive participle. 
++ Genitive of Subordination [over]
++ Genitive of Production/Producer [produced by]
++ Genitive of Product [which produces]
+*** Ablatival Genitive
++ Genitive of Separation [out of, away from, from]
++ Genitive of Source (or Origin) [out of, derived from, dependent on]
++ *Genitive of Comparison* [than]
+  - After a comparative adj.
+*** Verbal Genitive (i.e., Genitive Related to a Verbal Noun)
++ *Subjective Genitive* (subj of verbal idea implicit in head noun)
++ *Objective Genitive* (direct obj of verbal idea implicit in head noun)
++ Plenary Genitive (gen noun is both subj and obj)
+*** Adverbial Genitive
+Use of genitive similar in force to an adverb, therefore related to a verb or adj. 
++ Genitive of Price or Value or Quantity [for]
++ *Genitive of Time* [within which or during which]
+  - Indicates kind of time or time during which the word to which it stands related to takes place. 
++ Genitive of Place [where or within which]
++ Genitive of Means [by]
++ Genitive of Agency (personal agent by which action in view is accomplished) [by]
++ *Genitive Absolute*
++ Genitive of Reference [with reference to]
++ Genitive of Association [with, in association with]
+  - Head noun is usually prefixed with συν-
+*** After Certain Words
++ *Genitive after Certain Verbs* (as Direct Objects)
++ Genitive after Certain Adjectives (and Adverbs)
++ Genitive after Certain Nouns
++ *Genitive after Certain Prepositions*
+** Dative Case
+*** Pure Dative Uses
++ *Dative Indirect Object* [to, for]
+  - Indirect object only occurs with a transitive verb. 
++ *Dative of Interest* (Advantage & Disadvantage) [for the benefit of, against, to the disadvantage of]
+  - Similar to category of indirect object but interest is stressed here. 
++ *Dative of Reference/Respect* [with reference to, concerning, about]
++ Ethical Dative [as far as I am concerned]
++ Dative of Destination [to]
+  - Similar to indirect obj but takes intransitive verb. 
++ Dative of Recipient
+  - Personal noun in dative case occurring in verbless constructions. 
++ Dative of Possession [belonging to, possessed by]
++ Dative of Thing Possessed [who possesses]
++ Predicate Dative
++ *Dative in Simple Apposition*
+*** Local Dative Uses
++ Dative of Place
++ *Dative of Sphere* [in the sphere of]
+  - Dat of reference views the word to which the dat stands as separated, while dat of sphere, it is incorporated within the realm of the dative. 
++ *Dative of Time* (when)
+  - Denotes point of time. 
++ Dative of Rule [according to, in conformity with]
+*** Instrumental Dative Uses
++ *Dative of Association* [in association with]
+  - Diff between gen of assoc and dative of assoc is that gen is used with nouns (which begin with συν-) while dative is used with verbs (which begin with συν-) 
++ Dative of Manner (or Adverbial Dative) [with, in (answering How?)]
++ *Dative of Means/Instrument* [by, by means of, with]
++ Dative of Agency [by, through]
++ Dative of Measure/Degree of Difference [by]
++ *Dative of Cause* [because of]
+  - Dat of means = how, dat of cause = the why; dat of means = method, dat of cause = basis. 
++ Cognate Dative
++ Dative of Material
++ Dative of Content
+*** The Uses of the Dative After Certain Words
++ *Dative Direct Object* [to, in]
++ Dative After Certain Nouns
++ Dative After Certain Adjectives
++ *Dative After Certain Prepositions*
+** Accusative Case
+*** Substantival Uses of the Accusative
++ *Accusative Direct Object*
++ *Double Accusatives*
+  - *Person-Thing*
+    + The thing is the nearer object; the person is the more remote. Person is affected while the thing is effected. 4 categories (1) Teaching, Reminding (2) Clothing, Anointing (3) Inquiring, Asking (4) Other Types of causative ideas 
+  - *Object-Complement*
+    + The complement (noun, adj, participle, inf) predicates the direct obj. Identification of O-C follow the S-P nominative clause. Given the following word order:
+      - C-O [C-Definite Qualitative; O-Definite]; O-C [O-Definite; C-Qualitative Indefinite]. Categories are (1) Calling, designating, confessing (2) Making, appointing (3) Sending, expelling (4) Considering, regarding (5) Having, taking (6) Declaring, presenting
++ Cognate Accusative
++ Predicate Accusative
+  - Substantive and predicate are joined by an equative verb (inf. or ptc.). Determine S-P by following S-P nominative rule, except interrogative pronouns are the P. 
++ *Accusative Subject of Infinitive*
+  - When an inf. has 2 acc. 
+    + subj acc-predicate acc with equative verb inf (S-P). Follow S-P nominative rule.
+    + subj acc-direct object with transitive verb inf (S-O). Use common sense.
++ Accusative of Retained Object
++ Pendent Accusative
+  - Grammatical independent use of the acc. The acc is "hanging" at the beginning of the clause, but referenced later by a pronoun. 
++ *Accusative in Simple Apposition*
+
+*** Adverbial Uses of the Accusative
++ Adverbial Accusative (Accusative of Manner)
+  - Functions like an adverb in that it qualifies the action of the verb 
++ *Accusative of Measure* (or Extent of Space or Time)
+  - Use for the extent of (space) or for the duration of (time). Gen. refers to kind of time, dat. is point in time (answering "When?"), and acc. is extent of time (answering "How long?"). 
++ Accusative of Respect of (General) Reference
++ Accusative in Oaths
+*** Accusative After Certain Prepositions
+* Article
+** Regular Uses of the Article
++ As a Pronoun ([partially] Independent Use)
+  - *Personal Pronoun* [he, she, it]: Nom. art. in place of 3p pronoun. With ὁ μέν … ὁ δέ or ὁ δέ. 
+  - Alternative Personal Pronoun [the one ... the other]: Nom. art. (1) ὁ μέν … ὁ δέ (2) mild contrast 
+  - *Relative Pronoun* [who, which]: esp after a noun before a phrase 
+  - Possessive Pronoun [his, her]
++ With Substantives (Dependent or Modifying Use)
+  - Individualizing Article
+    + Simple Identification 
+    + *Anaphoric* (Previous Reference)
+      - 1st mention of substantive is usually anarthrous. 
+    + Well-known 
+    + Par Excellence (Extreme of a particular class) 
+    + Mondadic (One of a kind, unique) 
+    + *Abstract* (Article with Abstract nouns)
+      - Focus on quality while generic focus on a category
+    + Deictic ("Pointing" Article - demonstrative) 
+    + Kataphoric (Following Reference) 
+  - *Generic Article* (Categorical Article) [as a class]
+    + Distinguish one class from another. May translate with an indefinite article.
++ *As a Substantiver* (With Certain Parts of Speech)
+  - Adv 
+  - Adj
+  - Participles 
+  - Inf 
+  - Non-gen article followed by gen word or phrase "son, things" 
+  - Prepositional phrase 
+  - Particles 
+  - Clauses, statements & quotations. 
++ *As a Function Marker* (may or may not bear semantic force)
+  - To Denote adjectival Positions - Art in 2nd attributive position has no semantic meaning.
+  - With Possessive Pronouns
+  - In Genitive Phrases (Appollonius' Canon). Both head and gen noun normally have or lack the art 
+  - With Indeclinable nouns
+  - With Participles - art functions as a substantiver and as a function marker
+  - With Demonstratives - in predicate position to indicate attributive function
+  - With Nominative Nouns (to denote subject)
+  - To distinguish Subject from Pred-Nom and Obj from Comp
+    + With the Infinitive to denote various functions. 
+
+** Absence of the Article
+A noun must be definite with the article, and may be definite without the article. 
+Indef (God is a love) - Qual (God is love) - Def (God is the love) 
++ *Indefinite* (One member of a class, without specifying which member)
++ *Qualitative* (Stress on quality, nature, essence)
+Similar to generic noun as it focus on kind but unlike generic as it focus on one individual rather than a class. Most abstract nouns will be qual, but not generic because no class is in view 
++ *Definite* (Stress on individual identity)
+  - Proper Names
+  - Object of a Preposition (if articular, must be definite; if anarthous, may be definite)
+  - With Ordinal Numbers
+  - Predicate Nominative (if PN precede copula, it may be definite, Coldwell's Rule)
+  - Complement in Obj-Complement Construction (if precede the Obj)
+  - Monadic nouns
+  - Abstract Nouns (qualitative definite)
+  - Genitive Construction (Apollonius' Corollary)
+    + When head and gen nouns are anarthrous, both will usually have the same semantic force 
+    + With Pronominal Adj (e.g. πᾶς, ὅλος - all or every)
+  - Generic Nouns (little diff bw articular generics and anarthrous generics)
+
+*** Apollonius’ Corollary
++ I don’t think this works as a good rule. It does not work in the LXX.
+  - 1 Kgdms 2:27 “And a man of God came to Eli” καὶ ἦλθεν ἄνθρωπος θεοῦ πρὸς Ηλι.
+  - 1 Kgdms 9:6 “Behold, now a man of God is in this city” Ἰδοὺ δὴ ἄνθρωπος τοῦ θεοῦ ἐν τῇ πόλει ταύτῃ.
+  - 3 Kgdms 12:22 “And a word of the Lord came to Samaias, a man of God, saying ἐγένετο λόγος κυρίου πρὸς Σαμαιαν ἄνθρωπον τοῦ θεοῦ λέγων
+  - 3 Kgdms 13:1 “And behold, a man of God came out of Ioudas to Baithel by word of the Lord” Καὶ ἰδοὺ ἄνθρωπος τοῦ θεοῦ ἐξ Ιουδα παρεγένετο ἐν λόγῳ κυρίου εἰς Βαιθηλ
+  - 3 Kgms 17:24 “And the woman said to Elijah, ‘Now I know that you are a man of God, and that the word of the LORD in your mouth is truth.’” (καὶ εἶπεν ἡ γυνὴ πρὸς Ηλιου Ἰδοὺ ἔγνωκα ὅτι ἄνθρωπος θεοῦ εἶ σὺ καὶ ῥῆμα κυρίου ἐν στόματί σου ἀληθινόν)
++ The genitival noun clearly delimits the head noun in some fashion, e.g. “a man of God” is clearly as smaller category that “a man.” But it is unlikely that both head and genitive nouns will have the same semantic domain.
++ Moreover, other grammar books don’t use Apollonius’ corollary.
+** Special Uses and Non-Uses of the Article
++ Colwell's Rule
+In general, PN is anarthrous and it follows the copula. It is usually qualitative or indefinite. 
+  - Colwell's Rule.  A PN that precedes the copula, and which is apparently definite from the context, usually lacks the article. This does not imply the converse, that an anarthous PN that precedes the verb is usually definite. 
+  - Colwell's Construction. An anarthrous pre-verbal PN is normally qualitative, sometimes definite, and only rarely indefinite. 
+  - Absent verb. When an anarthrous PN stands before the subj, it will either be qualitative or definite. 
++ Granville Sharp Rule
+In the TSKS construction, the 2nd noun refers to the same person mentioned with the 1st noun when: (1) neither is impersonal, (2) neither is plural, (3) neither is a proper name. 
+  - Constructions involving Impersonal, Plural, and Proper names 
+    + Proper names - They're united under 1 article for the purposes at hand 
+    + Plural Personal Constructions or Impersonal Construction 
+      - Distinct Groups, though United ( [1] [2] ) 
+      - Overlapping Groups 
+      - 1st Group Subset of 2nd 
+      - 2nd Group Subset of 1st 
+      - Both Identical 
+
+*** Apollonius’ Canon
++ Nouns in regimen (i.e. the condition both of the governing and governed noun) must have articles prefixed to both of them or neither. 
+  - ἐν λόγῳ ἀληθείας or ἐν τῷ λόγῳ τῆς ἀληθείας.
++ Modification: The governing noun may be anarthrous without necessitating the omission of the article with the governed. 
+  - ὁ λόγος ἀληθείας (impossible) || λόγος τῆς ἀληθείας (possible).
++ Biblio.
+  - See also S. D. Hull, “Exception to Apollonius’ Canon in the NT: A Grammatical Study,” Trinity Journal 7 (1986): 3–16.
+*** Colwell’s Rule
+The following rules may be tentatively formulated to describe the use of the article with definite predicate nouns in sentences in which the verb occurs. (1) Definite predicate nouns here regularly take the article. (2) The exceptions are for the most part due to a change in word-order: (a) Definite predicate nouns which follow the verb (this is the usual order) usually take the article; (b) Definite predicate nouns which precede the verb usually lack the article; (c) Proper names regularly lack the article in the predicate; (d) Predicate nominatives in relative clauses regularly follow the verb whether or not they have the article.
+* Adjectives
+** "Non-Adjectival" Uses of the Adj
++ Adverbial Use of the Adj
++ *The Independent or Substantival Use of the Adj*
+  - Usually, a substantival adj will have an art to point out that it is indeed substantival
+** The Use of the Positive, Comparative, and Superlative Forms of the Adj
++ Use of the Positive Adj
+  - Normal Usage
+  - Positive for Comparative
+  - Positive for Superlative (Adj is in attributive position and with par excellence art)
++ Use of the Comparative Adj
+  - Normal Usage
+  - Comparative for Superlative
+  - Comparative for Elative (eg very strong man)
++ Use of the Superlative Adj
+  - Normal Usage (usually with protos and eschatos)
+  - Supelative for Elative
+  - Superlative for Comparative (when compare only 2 things)
+** The Relation of Adj to Noun
++ When the Article is Present
+  - *The Attributive Positions*
+    + 1st Attributive Position (TAN)
+    + 2nd Attributive Position (TNTA)
+    + 3rd Attributive Position (NTA)
+  - *The Predicate Positions*
+    + *1st Predicate Position* (ATN)
+    + *2nd Predicate Position* (TNA)
++ When the Article is Absent
+  - The Anarthrous Adjective-Noun Construction
+  - Determine from context if its anarthrous 1st attributive/predicate position 
+  - The Anarthrous Noun-Adjective Construction
+    + 4th Attributive Position
+    + Anarthrous 2nd Predicate Position
+* Person and Number
+** 8.1	Person
++ 1st Person for 3rd Person ("I" = "Someone")
++ 2nd Person for 3rd Person ("You" = "Someone")? (Likely to have no indefinite 2nd person)
++ 1st Person Plural Constructions: The Scope of "We" (Inclusive We = Author & readers (Exclusive We = I & my associates (Editorial We = I ))) 
+  - Editorial "We": 
+When (1) author shift unexpectedly from singular to plural, (2) usually nom. case 
+  - Inclusive "We" vs Exclusive "We"
+** 8.2	Number
++ Neuter Plural Subject with Singular Verb
++ Collective Singular Subject with Plural Verb
++ Compound Subject with Singular Verb
+2 subjects joined by a conjunction. Stress is on the 1st named subject. 
++ The Indefinite Plural ("They" = "Someone")
++ The Categorical Plural (aka Generalizing Plural)
+
+* Voice
+Transitiveness relates action of a verb to an object, while voice relates the action of a verb to its subject. Transitive verbs can be translated to the passive. 
+** 9.1	Active Voice
+The subj. performs, produces, or experiences the action or exists in the state expressed by the verb. 
++ Simple Active
+  - Subject performs or experiences the action. 
++ Causative Active
+  - Subject is not directly involved in the action, but is the ultimate source or cause of it. 
++ Stative Active (occurs with equative verbs and verbs that use am + a pred adj)
+  - Subject exists in the state indicated by the verb. 
++ Reflexive Active
+  - Subject acts upon himself. Usually, reflexive pronoun is used as the direct object.
+** 9.2	Middle Voice
+The subj. performs or experiences the action expressed by the verb in such a way that emphasizes the subject's participation. Active voice emphasizes action of the verb, middle emphasize actor [subj] of the verb. 
++ Direct Middle
+  - Subj acts on himself. Translate verb + himself as direct obj. 
++ Redundant Middle
+  - Require an explicit pronoun to convey reflexive notion. 
++ Indirect Middle
+  - Subj. acts for/by himself, or in his own interest. 
++ Causative Middle
+  - Subj. has something done for or to himself. 
++ Permissive Middle
+  - Subj. allows something to be done for or to himself. 
++ Reciprocal Middle
+  - Used with plural subjects to indicate interaction among themselves. Replace with ἀλλήλων. 
++ Deponent Middle
+  - No active form but is active in meaning.
+
+** 9.3	Passive Voice
+Subj. is acted upon or receives the action expressed by the verb. No volition - nor even necessarily awareness of the action is implied in the part of the subj. 
+ 
+
+Agency	Preposition (Case)	Translation
+Ultimate Agent	ὑπό (gen)  
+ἀπό (gen)  
+παρά (gen) 	by  
+by, of  
+from, by
+Intermediate Agent	διά (gen) 	through, by
+Impersonal Means	ἐν (dat)  
+dative (no prep)  
+ἐκ (gen) 	by, with  
+by, with  
+by, of
+  
++ Simple Passive
++ Causative/Permissive Passive
++ Deponent Passive
+* Moods
+Voice indicates how the subject relates to the action or state of the verb; tense indicates kind of action; mood presents the verbal action or state wrt its actuality or potentiality. 
+Defn: Mood is the morphological feature of a verb that a speaker uses to portray his or her affirmation as to the certainty of the verbal action or state (actuality or potentiality). (1) does not correspond to reality (2) does not indicate a speaker's perception of reality (3) indicate speaker's portrayal or representation. 
+Portrayal : Indicative - certain/asserted; Subjunctive - probable/desirable; Optative - possible; Imperative - intended. 
+** 10.1	Indicative Mood (Mood of assertion or presentation of certainty)
++ Declarative Indicative
++ Interrogative Indicative (don't ask the how or why, but the what)
++ Conditional Indicative (used in protasis of conditional statements made explicit with ei)
++ Potential Indicative (with verbs of obligation, wish or desire, followed by an inf.)
++ Cohortative Indicative (Command, Volitive - future indicative)
++ Indicative with ὅτι
+  - Substantival ὅτι clauses 
+    + Subject Clause 
+    + Direct Object Clause 
+      - Direct Object Clause Proper (not after a verb of perception)
+      - Direct Discourse (after a verb of perception) 
+      - Indirect Discourse (after a verb of perception) 
+The tense of the Greek verb in indirect discourse is retained from direct discourse.
+    + Apposition [namely, that] - usually in apposition to the demonstrative touto) 
+  - Epexegetical (explains, clarifies or completes a previous word or phrase) 
+  - Causal (Adverbial) [because] 
+
+** 10.2	Subjunctive Mood (Represents the verbal action (or state) as uncertain but probable)
+*** 10.2.1	In Independent Clauses 
++ Hortatory Subjunctive [let us]
+  - Usually 1P. If 1S, there should be presence of ἄφες (permit) or δεῦρο (come) preceding the subjunctive. 
++ Deliberative Subjunctive
+  - Deliberative Real Subjunctive (cognitive)
+    + Expects some kind of answer and is a genuine question. It asks the How? Whether? 
+  - Deliberative Rhetorical Subjunctive (volitive)
+  - Expects no verbal response. Does not ask a question of fact, but of obligation.
++ Emphatic Negation Subjunctive (οὐ μή + aor subj)
++ Prohibitive Subjunctive (usually μή + aor subj) [do not]
+  - Typically 2nd person. Force is imperative after μή.
+
+*** 10.2.2	In Dependent (Subordinate) Clauses 
++ Subjunctive in Conditional sentences
+  - Found in the protasis, presence of εαν. 
++ ἵνα + subjunctive
+  - Purpose ἵνα Clause [in order that, to]
+    + Focus on the intention of the action of the main verb, whether accomplished or not. 
+  - Result ἵνα Clause [so that, with the result that]
+    + Indicates a consequence of the verbal action that is not intended. 
+  - Purpose-Result ἵνα Clause [in order that]
+    + Indicates both the intention and its sure accomplishment. 
+  - Substantival ἵνα Clause
+    + Subject Clause
+    + Predicate Nominative Clause
+    + Direct Object Clause (gives the content of the main verb)
+    + Apposition Clause [namely, that]
+  - Epexegetical ἵνα Clause. Used after noun or adj to clarify that noun or adj. 
+  - Complementary ἵνα (completes the meaning of a helping verb, force of purpose, θέλω, δύναμαι)
+  - Imperatival ἵνα (force of a command)
++ Subjunctive with Verbs of Fearing, Warning, Watching out for
++ Subjunctive in Indirect Questions
++ Subjunctive in Indefinite Relative Clause (usually after ὅστις  (ἄν/ἐαν) or ὅς [δ’] ἄν)
++ Subjunctive in Indefinite Temporal Clause (usually after ἕως, ἄχρι, μέχρι, ὅταν)
+** 10.3	Optative Mood (Portray an action as possible)
++ Voluntative Optative (express obtainable wish or prayer. an appeal to the will) eg μὴ γένοιτο
++ Oblique Optative (in indirect questions after a secondary tense), e.g. εἴη
++ Potential Optative
++ Conditional Optative
+** 10.4	Imperative Mood
++ Command (from a superior to an inferior)
+  - aorist = command the action as a whole; present = command the action as an ongoing process. 
++ Prohibition (with μή)
++ Request (speaker is addressing a superior)
++ Permissive Imperative
++ Conditional Imperative (usually imperative + καί + future ind; idea is "If X, then Y will happen")
++ Potential Imperative
++ Pronouncement Imperative
+* Tenses
++ Time is absolute in the indicative, relative in the participle, and nonexistent in the other moods. Internal (or progressive) - present, imperfect; External (or Summary) - aorist, future; Perfective-Stative - perfect, pluperfect. Aspect is the basic defn of a tense while Aktionsart deals with the various categories of usage. 
+** 11.1	Present
++ Aspect: Internal without regard for beginning or end, progressive.
++ Time: Usually present time. 
+
++ Narrow Band (action portrayed occurs over a short time) 
+  - Instantaneous Present (Aoristic or Punctiliar Present) 
+Action is completed at the moment of speaking. Indicative only. 
+  - Progressive Present [at this present time, right now] 
+Describing a scene in progress, usually in narrative lit. Diff between this and customary or iterative present is that this is continuous action, not repeated action.
++ Broad Band (action portrayed occurs over a longer interval) 
+  - Extending-From-Past Present (Present of Past Action Still In Progress) 
+Diff from perfect tense as perfect speaks only about results existing in the present time. 
+  - Iterative Present [repeatedly, continuously] 
+Describe an event that repeatedly happens. Usually in imperative mood. 
+  - Customary (Habitual or General) Present [customarily, habitually, continually] 
+To signal either an action that regularly occurs or an ongoing state. 
+  - Gnomic Present 
+Used to make a statement of a general, timeless fact; in proverbial statements or general maxims about what occurs at all times. Semantic situations (1) depict deity or nature (2) generic statements.
++ Special Uses 
+  - Historical Present (Dramatic Present) 
+To portray an event vividly. Usually, aspectual value is 0. λέγει, λέγουσιν. 
+  - Perfective Present 
+  - Conative (Tendential, Voluntative) Present 
+  - Futuristic Present 
+Used to describe a future event, giving connotation of immediacy and certainty. Usually with verbs whose lexical nuance is anticipation, eg. ἔπχομαι, -βαίνω, προεύομαι 
+    + Completely Futuristic [is soon going to, is certainly going to, will] 
+Describe an event that is wholly subsequent to the time of speaking
+    + Mostly Futuristic [is coming] 
+Describe an event begun in the present time but completed in the future.
+  - Present Retained in Indirect Discourse 
+** 11.2	Imperfect
+Aspect: Internal; Time: Past 
++ Narrow-Band 
+  - Instantaneous Imperfect (restricted to ἔλεγεν in narrative lit) 
+  - Progressive Imperfect [was (continually) doing, was (right then) happening] 
+  - Ingressive (Inceptive) Imperfect [began doing] 
+Stress the beginning of an action, with the implication that it continued for some time. Usually in narrative when there's a change in activity, to signal a topic shift.
++ Broad Band 
+  - Iterative Imperfect [kept on doing, going] 
+Repeated action in past time. 
+  - Customary (Habitual or General) Imperfect [customarily, habitually, continually] 
+Regularly recurring activity in past time or a state that continue for some time.
++ Special Use 
+  - "Pluperfective" Imperfect 
+  - Conative (Voluntative, Tendential) Imperfect : desired, attempted, tried to … 
+  - Imperfect Retained in Indirect Discourse 
+11.3	Aorist
+Aspect: External, snapshot; Time: Indicative = Past time wrt time of speaking. Participles = antecedent time to that of the main verb. 
++ Constative (Punctiliar) 
+Views action as a whole, taking no interest in the internal workings of the action. Place stress on the fact of the occurrence, not its nature. 
++ Ingressive (Inceptive) [began to do, became] 
+Stress the beginning of an action or the entrance into a state 
++ Consummative (Culminative, Effective) 
+Stress cessation of an act or state. 
++ Gnomic 
+Present a timeless, general fact 
++ Epistolary 
+Author self-consciously describes his letter from the time frame of the audience. 
++ Proleptic (Futuristic) 
+Describe an event that is not yet past as though it were already completed. Stresses the certainty of the event.
++ Immediate Past/Dramatic [just now, previously] 
+** 11.4	Future
+Aspect: External, summary; Time: Future from the speaker's presentation. 
++ Predictive 
+Indicate that something will take place or come to pass. 
++ Imperatival 
+Fut Indicative is sometimes used for a command, having a universal, timeless and/or solemn force to it. 
++ Deliberative 
+Asks a question that implies some doubt about the response. 
++ Gnomic 
+** 11.5	Perfect & Pluperfect
+Aspect: Stative, resultative, completed. Action is presented externally, while resultant state is presented internally; Time: Future from the speaker's presentation. 
++ Perfect 
+Completed action with results existing in the present 
+  - Intensive (Resultative) 
+Emphasize the result or present state produced by a past action. Translate with a present tense. Usually stative verbs belong here. 
+  - Extensive (Consummative) 
+Emphasize the completed action of a past action or process from which a present state emerges. Perfects can be extensive or intensive, but transitive verbs often belong here. 
+  - Aoristic (Dramatic or Historical) 
+  - Perfect with a Present Force 
+Little diff between action and results. Eg οἶδα, ἕστηκα, πέποιθα 
+  - Gnomic 
+  - Proleptic (Futuristic) 
+Occurs in the apodosis of a conditional clause. 
+  - Perfect of Allegory 
++ Pluperfect 
+Completed action with results existing in the past. The pluperfect combines the aspects of the aorist (for the event) and the imperfect (for the results). It makes no comment about the result existing up the time of speaking. 
+  - Intensive (Resultative) 
+  - Extensive (Consummative) 
+  - Pluperfect with a Simple Past Force 
+
+** Summary
+| Present            | Imperfect          | Aorist      | Future                  | Perfect                 | Pluperfect                 |
+|--------------------+--------------------+-------------+-------------------------+-------------------------+----------------------------|
+| Instantaneous      | Instantaneous      | Constative  |                         |                         |                            |
+| Progressive        | Progressive        |             |                         |                         |                            |
+| Extend-from-past   |                    |             |                         |                         |                            |
+| Iterative	       | Iterative          |             |                         |                         |                            |
+| Customary          | Customary          |             |                         |                         |                            |
+| Gnomic             |                    | Gnomic      | Gnomic                  | Gnomic                  |                            |
+| Historical         |                    |             |                         | Aoristic (Historical)   |                            |
+| Perfective         | Pluperfective      | 	         |                         | Intensive (Resultative) | 	Intensive (Resultative) |
+| Conative           | Conative           |             |                         |                         |                            |
+| Futuristic         |                    | Proleptic   |                         | Proleptic               |                            |
+| Indirect discourse | Indirect discourse |             |                         |                         |                            |
+|                    | Ingressive         | Ingressive  |                         |                         |                            |
+|                    |                    | Epistolary  |                         |                         |                            |
+|                    |                    | Dramatic    |                         |                         |                            |
+|                    |                    | Consumative |                         | Extensive (Consumative) | Extensive (Consumative)    |
+|                    |                    |             | Predictive              |                         |                            |
+|                    |                    |             | Imperatival             |                         |                            |
+|                    |                    |             | Deliberative            |                         |                            |
+|                    |                    |             | Subjunctive Equivalents |                         |                            |
+|                    |                    |             |                         | Present Force           | Past Force                 |
+|                    |                    |             |                         | Allegory                |                            |
+
+
+* Infinitive
+Indeclinable verbal noun. Neuter article before inf has no significance. 
+** 12.1	Semantic Categories
++ Adverbial Uses
+  - Purpose [to, in order to, for the purpose of] 
+  - Result [so that, so as to, with the result that] 
+  - Time 
+    + Antecedent (μετὰ τό + inf) [after + finite verb] inf occurs before action of the controlling verb 
+After the inf comes the verb. 
+    + Contemporaneous (ἐν τῷ + inf) [while + finite verb, as when ...] ... simultaneous ... 
+    + Subsequent (πρὸ τοῦ, πρίν, πρὶν ἤ+ inf) [before + finite verb] ... after ... 
+  - Cause [because] 
+  - Means (ἐν τῷ + inf) [by + gerund, etc] 
+  - Complementary 
+Used with helper verbs, eg ἄπχομαι, βούλομαι, δύναμαι, ἐπιτρέπω, ζητέω, θέλω, μέλλω, ὀφείλω. Subject of inf is either nom or acc.
++ Substantival Uses
+  - Subject 
+With impersonal verbs as δεῖ, ἔξεστιν, δοκεῖ 
+  - Direct Object 
+  - Indirect Discourse 
+After a verb of perception or communication. Inf of indirect discourse retains the tense of the direct discourse and usually represents either an imperative or indicative. 
+  - Appositional [namely] 
+Apposition defines while epexegetical explains. Appositional can substitute for its antecedent but epexegetical can't. 
+  - Epexegetical 
+Explains, clarifies, or qualifies a noun or adj. If an inf qualifies a verb, it should be a complementary inf.
++ Independent Uses
+  - Imperatival 
+  - Absolute 
+** 12.2	Structural Categories
++ Anarthrous
+  - Simple Inf 
+Purpose, Result, Complementary, Means (rare), Subject, Direct Obj, Indirect Discourse, Apposition, Epexegetical, Imperatival (rare), Absolute (rare) 
+  - πρίν ἤ + Inf. Subsequent time. 
+  - ὡς + Inf. Purpose, Result. 
+  - ὥστε + Inf. Purpose (rare), Result 
++ Articular
+  - Without governing prepositions 
+    + Nom Art Inf : Subject, Apposition (rare) 
+    + Acc Art Inf : Direct Object, Apposition 
+    + Gen Art Inf: Purpose, Result, Contemporaneous Time (rare), Cause (rare), Direct Object (dispute), Apposition, Epexegetical 
+  - With Governing Preposition 
+    + διὰ τό + inf : Cause, Contemporaneous Time (rare) 
+    + εἰς + inf : Purpose, Result, Epexegetical (rare) 
+    + ἐν τῷ + inf : Result (rare), Contemporaneous Time, Means 
+    + μετὰ τό + inf : Antecedent time 
+    + πρὸς τό + inf : Purpose, Result 
+
+* Participle
+** 13.1	Adjectival
+If articular, = adjectival. If anarthrous, may be adjectival. 
++ Adjectival Proper (Dependent) 
+Attributive part. is common, predicate is rare. Translate attributive part. as a relative clause. 
++ Substantival (Independent) [the one who/the thing which] 
+The Inf. is abstract, speaking of the act or fact of doing. The participle is concrete, speaking of the person who or thing which does.
+** 13.2	Verbal
++ Example of participles modifying infinitives
+  - See BDF §410 “The case of adjuncts and predicates to the subject of the infinitive”, which states “Since the subject of the infinitive generally is, or is thought of as being, in the acc., it is natural that adjuncts and predicates going with the subject follow suit … participles as adjuncts may be in the dat. (or acc.) but not in the gen., for which the acc. is used”
+  - Examples
+    + Luke 1:74 ἀφόβως ἐκ χειρὸς ἐχθρῶν ῥυσθέντας λατρεύειν αὐτῷ 
+      - that we, being rescued from the hand of our enemies, may serve him without fear,
+    + 2 Pet 2:21 κρεῖττον γὰρ ἦν αὐτοῖς μὴ ἐπεγνωκέναι τὴν ὁδὸν τῆς δικαιοσύνης ἢ ἐπιγνοῦσιν ὑποστρέψαι ἐκ τῆς παραδοθείσης αὐτοῖς ἁγίας ἐντολῆς 
+      - For it would have been better for them never to have known the way of righteousness than, having known it, to turn back from the holy commandment that had been delivered to them.
+    + 1 Pet 2:11–12 Ἀγαπητοί, παρακαλῶ ὡς παροίκους καὶ παρεπιδήμους ἀπέχεσθαι … 12 τὴν ἀναστροφὴν ὑμῶν ἐν τοῖς ἔθνεσιν ἔχοντες καλήν
+      - Dear friends, I urge you as foreigners and exiles to keep away from fleshly desires that do battle against the soul, and maintain good conduct among the non-Christians
+
++ Dependent Verbal 
+  - Adverbial (or Circumstantial) [2M3C-RPT]
+    + Temporal [after doing, while doing, before doing] 
+When? 
+      - Aorist - Usually antecedent in time, but will be contemporaneous with aorist verb 
+      - Present - Contemporaneous 
+      - Perfect - Antecedent 
+      - Future - Subsequent 
+    + Manner [by + ptc of emotion or attitude] 
+How? Adds color rather than explain or define (means) the verb. 
+    + Means [by means of] 
+How? Could be epexegetical in defining, explaining action of the main verb. Usually Verb + Part. Used with vague, general, abstract or metaphorical finite verbs. 
+    + Cause [because] 
+Why? Usually Part + Verb. Almost all perfect ptc. 
+    + Condition [if] 
+    + Concession [although] 
+State or action of the main verb is true in spite of the state or action of the participle. 
+    + Purpose 
+Translate with inf or add "with the purpose of". Ptc + verb. Never perfect ptc, always future ptc, usually present ptc. 
+    + Result [with the result] 
+Verb + Present part.
+  - Attendant Circumstance [Part (translated as finite verb) + "and" + main verb] 
+5 things must occur (1) Aor part, (2) Aor main verb, (3) Imp or Ind main verb (4) Part + Verb in word order and time of event (5) Usually only in narrative lit. 
+  - Indirect Discourse 
+  - Complementary 
+  - Periphrastic 
+Verb of being + Anarthrous part (usually present or perfect) to form a finite verbal idea. 
+    + Present Verb + Present Part = Present Tense 
+    + Imperfect Verb + Present Part = Imperfect Tense 
+    + Future Verb + Present Part = Future Tense 
+    + Present Verb + Perfect Part = Perfect Tense 
+    + Imperfect Verb + Perfect Part = Pluperfect Tense 
+  - Redundant (Pleonastic)
++ Independent Verbal 
+  - As an Imperative (Imperatival) 
+  - As an Indicative (Independent Proper or Absolute) 
+** 13.3	Participle Absolute
++ Nominative Absolute 
++ Genitive Absolute 
+  - Structure
+    + Noun or pronoun in gen  - usually 
+    + gen anarthrous part - always 
+    + entire construction at the front of a sentence - usually. 
+  - Semantic
+    + The subject (gen noun) is different from the subj of main clause. 
+    + Participle is always adverbial, 
+    + usually temporal. 
+* Conditional Clauses
+** 14.1	1st Class (Assumed True for Argument's Sake)
++ εἰ + ind mood, any tense (-ve οὐ); any mood, any tense 
++ Translate: “If-and let us assume that this is true for the sake of argument, then ...” 
+** 14.2	2nd Class (Contrary to Fact)
++ εἰ + ind past (aor, imp) tense (-ve μή); [ἄν] + ind past tense (aor - past time, imp - present time) 
++ Assumption of an untruth for the sake of argument. 
++ E.g. Translate: “If you believed in Moses (but you did not), then …” 
+** 14.3	3rd Class (Uncertain but still likely)
++ ἐάν subj mood, any tense  (-ve μήv); any mood, any tense 
+  - A logical connection (if A, then B) in the present time 
+  - A hypothetical situation or one that probably won't be fulfilled 
+  - A more probable future occurrence. 
+** 14.4	4th Class (Less probable future)
++ εἰ + opt mood, present or aor; ἄν + opt mood, present or aor 
++ Indicates a possible condition in the future, usually a remote possibility. 
+* Volitionals
+** 15.1	Recent proposals for understanding tenses in volitionals
++ See Moo, Romans, 382 n.154.
++ Porter, Verbal Aspects, 351–52
+  - “Aorist tense is used when the author chooses to view the command as a whole, while the present tense, being “more heavily marked,” is used “to specify” the command, treating it as in progress or (in prohibitions) to deny that it is in progress. 
++ McKay, “Time and Aspect in New Testament Greek,” NovT 34 (1992): 209–28.
+  - “The aorist ‘urges an activity as a whole action’ while the present (the ‘imperfective’) ‘urges it as an ongoing process.” He also thinks that μή with the present imperative often prohibits an activity in progress.
++ Fanning, Verbal Aspects, 326–32.
+  - Distinguishes between “specific” and “general” commands, the aorist usually used for the former and the present for the latter. In prohibitions, the present tense can signify that an action in progress is to cease, but it can also mean “make it your practice not to do.”
+    + {This sounds to be wrong to be me} Double check.
++ Summary
+  - The lack of agreement suggests that one must use caution. None of the above schemes seems able with any degree of comprehensiveness to account for Paul’s use of the tenses in commands.
+  - Negatively, Porter’s suggestion that the present often carries emphasis does not seem to work very often; and his suggestion that in this text (Rom 6:12) the present prohibitions in vv. 12 and 13a are emphatic while the positive command in v. 13b assumes what the Romans already know (Verbal Aspect, 357) turns the natural flow of the text on its head.  But there does seem to be some reason to think that Paul often uses the present to connote durative action.
