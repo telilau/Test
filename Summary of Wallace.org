@@ -282,13 +282,13 @@ The following rules may be tentatively formulated to describe the use of the art
 + 2nd Person for 3rd Person ("You" = "Someone")? (Likely to have no indefinite 2nd person)
 + *1st Person Plural Constructions*: The Scope of "We" (Inclusive We = Author & readers (Exclusive We = I & my associates (Editorial We = I ))) 
   - Editorial "We":
-    When (1) author shift unexpectedly from singular to plural, (2) usually nom. case 
+    + When (1) author shift unexpectedly from singular to plural, (2) usually nom. case 
   - Inclusive "We" vs Exclusive "We"
 ** Number
 + *Neuter Plural Subject with Singular Verb*
 + Collective Singular Subject with Plural Verb
 + *Compound Subject with Singular Verb*
-  2 subjects joined by a conjunction. Stress is on the 1st named subject. 
+  - 2 subjects joined by a conjunction. Stress is on the 1st named subject. 
 + The Indefinite Plural ("They" = "Someone")
 + The Categorical Plural (aka Generalizing Plural)
 
@@ -297,20 +297,20 @@ The following rules may be tentatively formulated to describe the use of the art
 ** Active Voice
 The subj. /performs, produces, or experiences the action or exists in the state expressed by the verb/. 
 + *Simple Active*
-  Subject performs or experiences the action. 
+  - Subject performs or experiences the action. 
 + *Causative Active*
-  Subject is not directly involved in the action, but is the ultimate source or cause of it. 
+  - Subject is not directly involved in the action, but is the ultimate source or cause of it. 
 + *Stative Active* (occurs with equative verbs and verbs that use am + a pred adj)
-  Subject exists in the state indicated by the verb. 
+  - Subject exists in the state indicated by the verb. 
 + *Reflexive Active*
-  Subject acts upon himself. Usually, reflexive pronoun is used as the direct object.
-** 9.2	Middle Voice
+  - Subject acts upon himself. Usually, reflexive pronoun is used as the direct object.
+** Middle Voice
 The subj. performs or experiences the action expressed by the verb in such a way that emphasizes the subject's participation. Active voice emphasizes action of the verb, middle emphasize actor [subj] of the verb. 
 + Direct Middle
   - Subj acts on himself. Translate verb + himself as direct obj. 
 + Redundant Middle
   - Require an explicit pronoun to convey reflexive notion. 
-+ Indirect Middle
++ *Indirect Middle*
   - Subj. acts for/by himself, or in his own interest. 
 + Causative Middle
   - Subj. has something done for or to himself. 
@@ -318,29 +318,28 @@ The subj. performs or experiences the action expressed by the verb in such a way
   - Subj. allows something to be done for or to himself. 
 + Reciprocal Middle
   - Used with plural subjects to indicate interaction among themselves. Replace with ἀλλήλων. 
-+ Deponent Middle
++ *Deponent Middle*
   - No active form but is active in meaning.
-
-** 9.3	Passive Voice
+** Passive Voice
 Subj. is acted upon or receives the action expressed by the verb. No volition - nor even necessarily awareness of the action is implied in the part of the subj. 
  
 
-Agency	Preposition (Case)	Translation
-Ultimate Agent	ὑπό (gen)  
-ἀπό (gen)  
-παρά (gen) 	by  
-by, of  
-from, by
-Intermediate Agent	διά (gen) 	through, by
-Impersonal Means	ἐν (dat)  
-dative (no prep)  
-ἐκ (gen) 	by, with  
-by, with  
-by, of
-  
-+ Simple Passive
+| Agency             | Preposition (Case) | Translation |
+|--------------------+--------------------+-------------|
+| Ultimate Agent     | ὑπό (gen)          | by          |
+|                    | ἀπό (gen)          | by, of      |
+|                    | παρά (gen)         | from, by    |
+|--------------------+--------------------+-------------|
+| Intermediate Agent | διά (gen)          | through, by |
+|--------------------+--------------------+-------------|
+| Impersonal Means   | ἐν (dat)           | by, with    |
+|                    | dative (no prep)   | by, with    |
+|                    | ἐκ (gen)           | by, with    |
+|--------------------+--------------------+-------------|
+
++ *Simple Passive*
 + Causative/Permissive Passive
-+ Deponent Passive
++ *Deponent Passive*
 * Moods
 Voice indicates how the subject relates to the action or state of the verb; tense indicates kind of action; mood presents the verbal action or state wrt its actuality or potentiality. 
 Defn: Mood is the morphological feature of a verb that a speaker uses to portray his or her affirmation as to the certainty of the verbal action or state (actuality or potentiality). (1) does not correspond to reality (2) does not indicate a speaker's perception of reality (3) indicate speaker's portrayal or representation. 
